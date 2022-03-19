@@ -5,7 +5,7 @@ use warnings;
 use Carp;
 use charnames ':loose';
 
-our $VERSION = sprintf "%d.%02d", q$Revision: 0.2 $ =~ /(\d+)/g;
+our $VERSION = sprintf "%d.%02d", q$Revision: 0.03 $ =~ /(\d+)/g;
 our $DEBUG   = 0;
 
 our %Name2Chr;
