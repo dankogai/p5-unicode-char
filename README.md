@@ -1,5 +1,5 @@
 
-[![build status](https://app.travis-ci.com/dankogai/p5-unicode-char.svg)](https://app.travis-ci.com/github/dankogai/p5-p5-unicode-char)
+[![build status](https://app.travis-ci.com/dankogai/p5-unicode-char.svg)](https://app.travis-ci.com/github/dankogai/p5-unicode-char)
 
 # p5-unicode-char
 
